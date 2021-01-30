@@ -1,1 +1,2 @@
-# aac_pipeline
+# trainingApp
+Cloud training Event repository
